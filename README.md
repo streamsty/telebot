@@ -338,7 +338,7 @@ Use this method to send `answerList` to an inline query.
 
 Use this method to get basic info about a file and prepare it for downloading.
 
-##### `sendMessage(<chat_id>, <text>, {parseMode, replyToMessage, replyMarkup, notification, webPreview})`
+##### `sendMessage(<chat_id>, <text>, {parseMode, protectContent, replyToMessage, replyMarkup, notification, webPreview})`
 
 Use this method to send text messages.
 

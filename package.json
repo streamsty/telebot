@@ -1,6 +1,6 @@
 {
 	"name": "@streamsty/telebot",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"description": "Port of telebot for Serverless Cloud",
 	"main": "lib/telebot.js",
 	"engines": {
